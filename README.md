@@ -6,7 +6,7 @@ Implementation of the NIPS17 paper [Stabilizing Training of Generative Adversari
 
 
 
-Check also Ferenc Huszar's excellent blog post on the topic [From Instance Noise to Gradient Regularisation](http://www.inference.vc/from-instance-noise-to-gradient-regularisation/).
+Check also our [slides](https://github.com/rothk/Stabilizing_GANs/blob/master/Stabilizing_GANs.pdf) and Ferenc Huszar's excellent blog post on the topic [From Instance Noise to Gradient Regularisation](http://www.inference.vc/from-instance-noise-to-gradient-regularisation/).
 
 
 Big thanks to Ishaan Gulrajani [(igul222)](https://github.com/igul222/improved_wgan_training), Taehoon Kim [(carpedm20)](https://github.com/carpedm20/DCGAN-tensorflow) and Ben Poole [(poolio)](https://github.com/poolio/unrolled_gan) for their open-source GAN implementations, on which our modified code is based. 
